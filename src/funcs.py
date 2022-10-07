@@ -8,6 +8,7 @@ def prod(a, b, c):
     >>> prod(1, 2, 3)
     'TEST ME!'
     """
+    return(a*b*c)
     ...
 
 
